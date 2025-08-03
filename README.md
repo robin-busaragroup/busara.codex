@@ -1,2 +1,8 @@
-# busara.codex
-open a new file/ folder name it Busara Group. I want to create an investment management website for my business. It allows investors to see the funds growth and compared to popular indexes like the s&p 500. It should be a well designed website for longterm investors not traders. Good example of being the norges bank investment management website. Also a research page allowing admins to publish research. This will be a small fund strating with just £25k. Again stress the importance of looking good and simple
+# Busara Group
+
+This repository contains a simple static website for Busara Group, a small investment management fund starting with £25k. The site is designed for long-term investors and includes:
+
+- A home page displaying fund growth compared with the S&P 500.
+- A research section where administrators can publish articles.
+
+Open `index.html` in a browser to view the site. Research articles are stored in the `research` directory and listed on the `research.html` page.

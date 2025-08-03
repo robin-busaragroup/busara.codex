@@ -1,0 +1,8 @@
+{
+  "name": "busara-group-site",
+  "version": "1.0.0",
+  "description": "Busara Group investment management website",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  }
+}
